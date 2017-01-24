@@ -1,0 +1,163 @@
+{
+  "basics": {
+    "name": "Franky Lau",
+    "label": "JS Developer",
+    "picture": "https://pbs.twimg.com/profile_images/478140562936041472/Xuib68Zq_400x400.jpeg",
+    "email": "killalau1988@hotmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "Hong Kong developer, love coffee and coding.",
+    "location": {
+      "address": "",
+      "city": "Tai Po",
+      "region": "NT",
+      "countryCode": "HK",
+      "postalCode": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "killalau",
+        "url": "https://github.com/killalau"
+      },
+      {
+        "network": "Twitter",
+        "username": "killalau",
+        "url": "https://twitter.com/killalau"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Bindo",
+      "position": "Software Engineer",
+      "website": "https://bindopos.com/",
+      "startDate": "2016-07-21",
+      "endDate": "",
+      "summary": "Bindo is a POS startup comapny for retail and restaurant industry.",
+      "highlights": [
+        "Frontend development team",
+        "Enhance the POS dashboard website",
+        "Build the e-commerce website for our customers",
+        "Sometimes build the mobile/desktop app for customers",
+        "Involve: Javascript, React, Angular, Electron, React Native, Liquid (Shopify Theme), jQuery, Bootstrap"
+      ]
+    },
+    {
+      "company": "Orient Overseas Container Line (OOCL)",
+      "position": "Technical Analyst",
+      "website": "http://www.oocl.com/",
+      "startDate": "2014-08-25",
+      "endDate": "2016-07-20",
+      "summary": "OOCL is a leading shipping liner in Asia, which listed in Hong Kong.",
+      "highlights": [
+        "IT department",
+        "Enhance the internal shippment ERP system",
+        "Build b2b online platfrom for booking our services",
+        "Train and lead interns and trainees",
+        "Involve: Java, Spring, Oracle DB, Javascript, ExtJS, Tibco BW"
+      ]
+    },
+    {
+      "company": "ecVision",
+      "position": "Software Engineer",
+      "website": "http://www.ecvision.com/",
+      "startDate": "2013-07-21",
+      "endDate": "2014-08-22",
+      "summary": "ecVision is a supply chain software solution company, which acquired by Amber Road at 2015.",
+      "highlights": [
+        "R&D Team",
+        "Build reusable UI comonents and flexiable frontend framework",
+        "Improve cross browser compatibility and responsive",
+        "Make product fully keyboard accessable",
+        "Involve: Javascript, Typescript, jQuery, Backbone"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The Chinese University of Hong Kong",
+      "area": "Information Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2013-06-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "HKU SPACE",
+      "area": "Information Technology",
+      "studyType": "Higher Diploma",
+      "startDate": "2007-09-01",
+      "endDate": "2010-06-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "React",
+        "Angular",
+        "ES6",
+        "Javascript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Advanced",
+      "keywords": [
+        "Oracle DB",
+        "MongoDB",
+        "NodeJS"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Intermediate",
+      "keywords": [
+        "React Native",
+        "Andriod"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Cantonese",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": [
+        "Drawing",
+        "Reading",
+        "Baking"
+      ]
+    },
+    {
+      "name": "Foods & Drinks",
+      "keywords": [
+        "Cocoa",
+        "Caffeine"
+      ]
+    }
+  ],
+  "references": []
+}
