@@ -34,7 +34,7 @@
       "website": "https://bindopos.com/",
       "startDate": "2016-07-21",
       "endDate": "",
-      "summary": "Bindo is a POS startup comapny for retail and restaurant industry.",
+      "summary": "Bindo is a POS startup company for retail and restaurant industry.",
       "highlights": [
         "Frontend development team",
         "Enhance the POS dashboard website",
@@ -52,8 +52,8 @@
       "summary": "OOCL is a leading shipping liner in Asia, which listed in Hong Kong.",
       "highlights": [
         "IT department",
-        "Enhance the internal shippment ERP system",
-        "Build b2b online platfrom for booking our services",
+        "Enhance the internal shipment ERP system",
+        "Build b2b online platform for booking our services",
         "Train and lead interns and trainees",
         "Involve: Java, Spring, Oracle DB, Javascript, ExtJS, Tibco BW"
       ]
@@ -67,9 +67,9 @@
       "summary": "ecVision is a supply chain software solution company, which acquired by Amber Road at 2015.",
       "highlights": [
         "R&D Team",
-        "Build reusable UI comonents and flexiable frontend framework",
+        "Build reusable UI components and flexible frontend framework",
         "Improve cross browser compatibility and responsive",
-        "Make product fully keyboard accessable",
+        "Make product fully keyboard accessible",
         "Involve: Javascript, Typescript, jQuery, Backbone"
       ]
     }
